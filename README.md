@@ -12,7 +12,7 @@ Current expertise includes React, Node.js, TypeScript, and SQL.
 - [2048 Game](https://pivkopa.github.io/js_2048_game/) | [Code](https://github.com/pivkopa/js_2048_game) - A fully functional 2048 game using JavaScript.
 
 ## Top technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,ts,react,redux,nodejs,nextjs,express,postgresql,mongodb,sequelize,prisma,jquery,materialui,git,github,gitlab,npm,vscode,figma,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,ts,react,redux,nodejs,nextjs,express,postgresql,mongodb,sequelize,prisma,jquery,materialui,git,github,gitlab,npm,vscode,figma)](https://skillicons.dev)
 
 - HTML/CSS, JavaScript, Typescript, React, React Native
 - Redux, React Router, Material UI, Bulma
