@@ -1,4 +1,4 @@
-# 👋 Dmytro Pivkopa
+# 👋 Hi there!
 
 Experienced full-stack developer with a focus on front-end technologies, skilled in HTML/CSS, JavaScript, and React.
 
